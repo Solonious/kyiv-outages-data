@@ -1,7 +1,7 @@
 {
   "queue": "45.1",
   "updatedOn": "2026-10-26T19:15:02+00:00",
-  "ageHours": 0.1,
+  "ageHours": 1.2,
   "stale": false,
   "today": {
     "date": "2026-10-26T00:00:00+02:00",
@@ -46,6 +46,6 @@
     "summary": "Без світла: 06:00–09:30, 14:00–17:30, 21:30–24:00"
   },
   "source": "yasno app.yasno.ua (unofficial), region 25 / dso 902",
-  "fetchedAt": "2026-10-26T19:21:50.180Z",
-  "checkedAt": "2026-10-26T19:21:50Z"
+  "fetchedAt": "2026-10-26T20:24:23.918Z",
+  "checkedAt": "2026-10-26T20:24:24Z"
 }
