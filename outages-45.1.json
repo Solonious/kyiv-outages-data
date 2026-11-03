@@ -1,7 +1,7 @@
 {
   "queue": "45.1",
-  "updatedOn": "2026-11-03T04:25:34+00:00",
-  "ageHours": 2.2,
+  "updatedOn": "2026-11-03T11:56:31+00:00",
+  "ageHours": 3.1,
   "stale": false,
   "today": {
     "date": "2026-11-03T00:00:00+02:00",
@@ -20,6 +20,6 @@
     "summary": "аварійні відключення, графік не діє"
   },
   "source": "yasno app.yasno.ua (unofficial), region 25 / dso 902",
-  "fetchedAt": "2026-11-03T06:39:48.877Z",
-  "checkedAt": "2026-11-03T06:39:48Z"
+  "fetchedAt": "2026-11-03T15:02:35.997Z",
+  "checkedAt": "2026-11-03T15:02:36Z"
 }
