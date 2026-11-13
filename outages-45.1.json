@@ -1,7 +1,7 @@
 {
   "queue": "45.1",
   "updatedOn": "2026-11-13T07:45:01+00:00",
-  "ageHours": 2.5,
+  "ageHours": 3.5,
   "stale": false,
   "today": {
     "date": "2026-11-13T00:00:00+02:00",
@@ -33,6 +33,6 @@
     "summary": "графік ще не опублікований"
   },
   "source": "yasno app.yasno.ua (unofficial), region 25 / dso 902",
-  "fetchedAt": "2026-11-13T10:15:50.770Z",
-  "checkedAt": "2026-11-13T10:15:50Z"
+  "fetchedAt": "2026-11-13T11:14:01.033Z",
+  "checkedAt": "2026-11-13T11:14:01Z"
 }
