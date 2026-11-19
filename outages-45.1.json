@@ -1,26 +1,9 @@
 {
   "queue": "45.1",
   "updatedOn": "2026-11-19T18:45:01+00:00",
-  "ageHours": 2.5,
+  "ageHours": 3.5,
   "stale": false,
   "today": {
-    "date": "2026-11-19T00:00:00+02:00",
-    "status": "ScheduleApplies",
-    "statusUk": "графік діє",
-    "outages": [
-      {
-        "from": "02:30",
-        "to": "06:00"
-      },
-      {
-        "from": "13:30",
-        "to": "18:30"
-      }
-    ],
-    "possible": [],
-    "summary": "Без світла: 02:30–06:00, 13:30–18:30"
-  },
-  "tomorrow": {
     "date": "2026-11-20T00:00:00+02:00",
     "status": "ScheduleApplies",
     "statusUk": "графік діє",
@@ -41,7 +24,15 @@
     "possible": [],
     "summary": "Без світла: 01:00–04:30, 10:30–15:30, 20:30–24:00"
   },
+  "tomorrow": {
+    "date": "2026-11-21T00:00:00+02:00",
+    "status": "WaitingForSchedule",
+    "statusUk": "графік ще не опублікований",
+    "outages": [],
+    "possible": [],
+    "summary": "графік ще не опублікований"
+  },
   "source": "yasno app.yasno.ua (unofficial), region 25 / dso 902",
-  "fetchedAt": "2026-11-19T21:14:02.538Z",
-  "checkedAt": "2026-11-19T21:14:02Z"
+  "fetchedAt": "2026-11-19T22:14:06.709Z",
+  "checkedAt": "2026-11-19T22:14:06Z"
 }
